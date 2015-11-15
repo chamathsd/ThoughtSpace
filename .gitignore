@@ -1,0 +1,19 @@
+# Ignore project files in the root
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.xcodeproj
+*.sublime-*
+
+/Saved/**
+/Intermediate/**
+/Plugins/**/Intermediate/**
+/Plugins/**/Binaries/**
+/Binaries/**
+/DerivedDataCache/**
+/Images
+/Videos
+
+**.generated.h
+**.response
