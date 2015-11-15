@@ -10,7 +10,11 @@
 /Intermediate/**
 /Plugins/**/Intermediate/**
 /Plugins/**/Binaries/**
-/Binaries/**
+/Binaries/Win64/*.exe
+/Binaries/Win64/*.exp
+/Binaries/Win64/*.lib
+/Binaries/Win64/*.pdb
+/Binaries/Win64/UE4Editor-ThoughtSpace.dll
 /DerivedDataCache/**
 /Images
 /Videos
