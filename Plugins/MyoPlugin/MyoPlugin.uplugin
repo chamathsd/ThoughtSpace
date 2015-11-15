@@ -1,0 +1,22 @@
+{
+    "FileVersion" : 3,
+	
+	"FriendlyName" : "Myo Plugin",
+	"Version" : 6,
+	"VersionName" : "0.7.13",
+	"CreatedBy" : "Getnamo",
+	"CreatedByURL" : "http://syntheticinsights.com",
+	"EngineVersion" : "4.9+",
+	"Description" : "Unofficial Plugin for Thalmic Myo.",
+	"Category" : "Input.Controller",
+	
+    "Modules" :
+	[
+		{
+			"Name" : "MyoPlugin",
+			"Type" : "Runtime",
+			"WhitelistPlatforms" : [ "Win64", "Win32" ]
+		}
+	],
+	"CanContainContent" : true
+}
